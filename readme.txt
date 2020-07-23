@@ -6,3 +6,4 @@ add LIcence
 x 1
 x 2x 2
 new branch dev
+Creating a new branch is quick & simple.
